@@ -29,7 +29,7 @@ $ docker run -d --restart always --name cherrymusic --net=host -v /var/media:/me
 ## Configuration of Music Directory
 The configuration file of the program that is fixed when compiling the image is cherrymusic.conf.
 The port of service has been fixed at 8080
-The data directory is set to "/ media / music"
+The data directory is set to "/media/music"
 
 To set access to media music files outside the container, use the --volume option
 
