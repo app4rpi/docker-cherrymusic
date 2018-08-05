@@ -2,7 +2,7 @@
 ## 1. Create the working directory and the configuration files
 
 ```
-$ mkdir docker-cherrymusic && cd docker-cherrymusic
+$ mkdir cherrymusic && cd cherrymusic
 $ nano Dockerfile
 $ nano entrypoint.sh
 ```
