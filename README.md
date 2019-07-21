@@ -2,7 +2,8 @@
 ## 1. Create the working directory and the configuration files
 
 ```
-$ mkdir cherrymusic && cd cherrymusic
+$ git clone https://github.com/app4rpi/docker-cherrymusic.git
+$ mkdir docker-cherrymusic && cd docker-cherrymusic
 $ nano Dockerfile
 $ nano entrypoint.sh
 ```
