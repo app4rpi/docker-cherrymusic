@@ -13,7 +13,7 @@ $ nano entrypoint.sh
 $ docker build --rm -t docker-cherrymusic .
 ```
 
-The image docker-minidlna:latest has been created with a size of 43.1MB
+The image docker-cherrymusic:latest has been created with a size of 43.1MB
 
 ## 3a. Run cherrymusic in a container
 
